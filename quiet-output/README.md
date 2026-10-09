@@ -10,7 +10,7 @@ text updates and questions are untouched.
 From a terminal Claude Code session:
 
 ```
-/plugin install quiet-output --marketplace ~/claude-mods
+/plugin install quiet-output --marketplace dyoung418/claude-mods
 ```
 
 Answer `y` to add the marketplace, then pick the user scope.
