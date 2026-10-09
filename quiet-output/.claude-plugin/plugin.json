@@ -1,0 +1,7 @@
+{
+  "name": "quiet-output",
+  "version": "1.0.0",
+  "author": { "name": "Danny Young" },
+  "description": "Condensed transcript: tool calls fold into one-line notices and results are hidden; /quiet toggles full detail.",
+  "types": "./types/index.d.ts"
+}

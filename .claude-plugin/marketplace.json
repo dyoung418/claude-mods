@@ -1,0 +1,11 @@
+{
+  "name": "danny-mods",
+  "owner": { "name": "Danny Young" },
+  "plugins": [
+    {
+      "name": "quiet-output",
+      "source": "./quiet-output",
+      "description": "Condensed transcript: tool calls fold into \"N tools used\" rollups; /quiet and a band toggle bring full detail back."
+    }
+  ]
+}
